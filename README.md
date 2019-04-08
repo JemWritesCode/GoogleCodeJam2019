@@ -2,8 +2,7 @@ Google’s longest running global coding competition, Code Jam, calls on program
 
 ## [Solutions for Google Code Jam Qualification Round 2019](https://codingcompetitions.withgoogle.com/codejam/round/0000000000051705)
 
-Qualified with 41pts.
-I had other things to do so I didn't have time to try the other 2 questions, but you just needed to pass these questions to qualify.
+Qualified with 41pts. I had work so I only had time to do these 2.
 
 ### [Foregone Solution](https://codingcompetitions.withgoogle.com/codejam/round/0000000000051705/0000000000088231)
 My solution: Treat it as a string and replace all `4` with `3` to get first number. Then subtract `num - first` to get the `second` number. 
