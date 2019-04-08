@@ -15,6 +15,7 @@ Max Score
 I used a swap function, you change all the `S` to `1`, then all the `E` to `S`, sthen all the `1` to `S`. You basically get a mirror of the first string.
 
 `SESESE` would become
+
 `ESESES`
 
 Max Score
