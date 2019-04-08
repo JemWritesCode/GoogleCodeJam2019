@@ -14,6 +14,9 @@ Max Score
 ### [You Can Go Your Own Way](https://codingcompetitions.withgoogle.com/codejam/round/0000000000051705/00000000000881da)
 I used a swap function, you change all the `S` to `1`, then all the `E` to `S`, sthen all the `1` to `S`. You basically get a mirror of the first string.
 
+`SESESE` would become
+`ESESES`
+
 Max Score
 <b>Test Set 1</b>  5pts/5 </br>
 <b>Test Set 2</b> 9pts/9 </br>
